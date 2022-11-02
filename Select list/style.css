@@ -1,12 +1,6 @@
-.item {
-    background-color: rgb(255, 124, 124);
-    text-decoration: none;
-    color: black;
-    padding: 20px;
+.colorboxlist {
     display: block;
-    margin-top: 20px;
-}
-.active {
-    background-color: black;
-    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(255, 146, 146);
 }
